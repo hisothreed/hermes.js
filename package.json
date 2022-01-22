@@ -32,7 +32,7 @@
     "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
-    "node-fetch": "^2.1.2",
+    "node-fetch": "^3.1.1",
     "nodemon": "^1.17.5",
     "transform-runtime": "0.0.0"
   }
